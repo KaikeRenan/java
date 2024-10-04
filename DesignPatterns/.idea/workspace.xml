@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4117c13-6551-4297-ae50-9037a6b6a68a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Problema/clienteJarOperacoesContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Problema/jarOperacoesContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Problema/testeJarOperacoesContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Solucao/clienteJarOperacoesContaCorrenteAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Solucao/jarOperacoesContaCorrenteAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Solucao/testeJarOperacoesContaCorrenteAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Teste/testeComPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Teste/testeComPessoaComBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/bibliotecaLombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/pessoaComBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Problema/testeVendaCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Problema/vendaCarroService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/descontoCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/descontoCarroFiat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/descontoCarroFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/descontoCarroMaiorQue100k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/semDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/testeVendaCarroComChainOfResponsibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/Solucao/vendaCarroServiceComChainOfResponsibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/marcasEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/Teste/produtoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/Teste/testeProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/Teste/testeProdutoComFactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/produtoDigital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/produtoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/tipoProdutoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Problema/botaoAmarelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Problema/botaoAzul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Problema/botaoVermelho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Solucao/botaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Solucao/botaoRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Solucao/testeBotaoPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/botao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/tipoBordaEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Problema/pessoaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Solucao/ProxyPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Solucao/pessoaRepositoryProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Solucao/pessoaRepositoryProxyNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Solucao/pessoaTesteComProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/pessoaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/pessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Problema/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Solucao1/AgendaSingletonEAGER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Solucao1/TesteAgendaComSingletonEAGER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Solucao2/AgendaSingletonLAZY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Solucao2/TesteAgendaComSingletonLAZY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Solucao3/AgendaSingletonENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Solucao3/TesteAgendaComSingletonENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Problema/reajusteAnualSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Problema/testeReajusteAnualSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/calculadorReajusteAnualSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/calculadorReajusteAnualSalarioCLT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/calculadorReajusteAnualSalarioESTAGIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/calculadorReajusteAnualSalarioPJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/reajusteAnualSalarioComStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/testeReajusteAnualSalarioComStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Solucao/tipoContratacaoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Problema/reparaVeiculoComumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Problema/reparaVeiculoLuxoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Problema/testeReparoVeiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Solucao/reparaVeiculoComumServiceComTemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Solucao/reparaVeiculoLuxoServiceComTemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Solucao/reparoVeiculoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/Solucao/testeReparoVeiculosComTemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethod/veiculoParaReparo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hsRBbIevHpfwXhPvEqHuagTGG7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TesteAgenda.executor": "Run",
+    "Application.TesteAgendaComSingleton.executor": "Run",
+    "Application.TesteAgendaComSingletonEAGER.executor": "Run",
+    "Application.TesteAgendaComSingletonENUM.executor": "Run",
+    "Application.TesteAgendaComSingletonLAZY.executor": "Run",
+    "Application.pessoaTeste.executor": "Run",
+    "Application.pessoaTesteComProxy.executor": "Run",
+    "Application.testeBotaoPrototype.executor": "Run",
+    "Application.testeComPessoa.executor": "Run",
+    "Application.testeComPessoaComBuilder.executor": "Run",
+    "Application.testeJarOperacoesContaCorrente.executor": "Run",
+    "Application.testeJarOperacoesContaCorrenteAdapter.executor": "Run",
+    "Application.testeProdutoComFactoryMethod.executor": "Run",
+    "Application.testeReajusteAnualSalario.executor": "Run",
+    "Application.testeReajusteAnualSalarioComStrategy.executor": "Run",
+    "Application.testeReparoVeiculos.executor": "Run",
+    "Application.testeReparoVeiculosComTemplateMethod.executor": "Run",
+    "Application.testeVendaCarro.executor": "Run",
+    "Application.testeVendaCarroComChainOfResponsibility.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Strategy.Problema" />
+      <recent name="Prototype" />
+      <recent name="FactoryMethod" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TemplateMethod.Solucao" />
+      <recent name="TemplateMethod.Problema" />
+      <recent name="ChainOfResponsibility.Solucao" />
+      <recent name="Strategy.Solucao" />
+      <recent name="Adapter.Solucao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.testeReajusteAnualSalarioComStrategy">
+    <configuration name="testeReajusteAnualSalarioComStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strategy.Solucao.testeReajusteAnualSalarioComStrategy" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strategy.Solucao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeReparoVeiculos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplateMethod.Problema.testeReparoVeiculos" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemplateMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeReparoVeiculosComTemplateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplateMethod.Solucao.testeReparoVeiculosComTemplateMethod" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemplateMethod.Solucao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeVendaCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibility.Problema.testeVendaCarro" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChainOfResponsibility.Problema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeVendaCarroComChainOfResponsibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibility.Solucao.testeVendaCarroComChainOfResponsibility" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChainOfResponsibility.Solucao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testeReajusteAnualSalarioComStrategy" />
+        <item itemvalue="Application.testeReparoVeiculos" />
+        <item itemvalue="Application.testeReparoVeiculosComTemplateMethod" />
+        <item itemvalue="Application.testeVendaCarroComChainOfResponsibility" />
+        <item itemvalue="Application.testeVendaCarro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4117c13-6551-4297-ae50-9037a6b6a68a" name="Changes" comment="" />
+      <created>1718380677177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718380677177</updated>
+    </task>
+    <servers />
+  </component>
+</project>
